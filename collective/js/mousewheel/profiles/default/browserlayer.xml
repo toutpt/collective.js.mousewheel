@@ -1,6 +1,0 @@
-<layers>
-<!-- uncomment to activate
-    <layer name="collective.js.mousewheel"
-           interface="collective.js.mousewheel.interfaces.ILayer" />
--->
-</layers>
